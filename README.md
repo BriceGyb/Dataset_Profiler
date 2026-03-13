@@ -47,7 +47,7 @@ rien ne quitte le navigateur de l'utilisateur.
 
 ## Demo live
 
-> 🚀 **[Ouvrir l'app sur Streamlit Cloud](#)** ← remplacer par l'URL après déploiement
+> 🚀 **[https://datasetprofiler.streamlit.app/](#)** 
 
 ---
 
