@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c \":*)",
+      "Bash(python -c \"import streamlit, pandas, plotly, scipy, numpy; print\\(''All deps OK''\\)\")"
+    ]
+  }
+}
